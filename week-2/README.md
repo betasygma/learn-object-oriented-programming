@@ -1,8 +1,6 @@
 # TicketMachine (BlueJ)
 
-Short report for the *TicketMachine* project executed in BlueJ.
-
-<div><div>
+*Author: Bara Semangat Rohmani (SID 5025241144)*
 
 ## Overview
 

@@ -1,5 +1,7 @@
 # Week 4 Assignment – Clock Display (Object Interaction)
 
+*Author: Bara Semangat Rohmani (SID 5025241144)*
+
 ## 📌 Project Overview
 
 This assignment implements a **Clock Display** based on the *Object Interaction* chapter from *Objects First with Java*.

@@ -1,5 +1,6 @@
+# Touch Typing (10-Finger) Practice
 
-Touch Typing (10-Finger) Practice
+*Author: Bara Semangat Rohmani (SID 5025241144)*
 
 **Overview** <br/>
 This week’s assignment asked me to document a simple, personal skill: learning to type using the 10-finger (touch typing) method without looking at the keyboard. I chose this topic both because it’s practical for web development and because it reflects a real learning challenge I’ve been facing.
