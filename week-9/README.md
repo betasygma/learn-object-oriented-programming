@@ -71,10 +71,28 @@ Aplikasi ini mensimulasikan mesin penjual otomatis yang dapat:
 <br>
 
 ## 📚 Screenshots
-![](./assets/Screenshot%202025-10-14%20152523.png)
-![](./assets/Screenshot%202025-10-14%20152504.png)
 
-*(selengkapnya menyusul)*
+|  No  | Gambar | Deskripsi                                               |
+| --- |---------|------------------------------------------------------|
+|  1 | ![](./screenshots/1_startup.png) | **Tampilan awal dengan menjalankan program** dengan **menjalankan `VendingSim.main`** untuk **menampilkan menu utama: 1) Buy  2) Admin  0) Exit**.  |
+|  2 | ![](./screenshots/2_productlist.png) | **Menampilkan daftar produk** dengan **memilih opsi `1) Buy`** untuk **menampilkan daftar produk dengan ID, nama, harga, dan stok**.   |
+|  3 | ![](./screenshots/3_success.png) | **Pembelian produk berhasil** dengan **memasukkan ID produk dan uang yang sama/lebih besar dari harga** untuk **mengeluarkan produk dan menampilkan kembalian jika ada**.   |
+|  4 | ![](./screenshots/4_partialpayment.png) |  |
+|  5 | ![](./screenshots/5_lowstock.png) |  |
+|  6 | ![](./screenshots/6_outofstock.png) |  |
+|  7 | ![](./screenshots/7_cancel.png) |  |
+|  8 | ![](./screenshots/8_unknownoption.png) |  |
+|  9 | ![](./screenshots/9_invalidid.png) |  |
+| 10 | ![](./screenshots/10_invalidmoney.png) |  |
+| 11 | ![](./screenshots/11_decimalmoney.png) |  |
+| 12 | ![](./screenshots/12_wrongadminpw.png) |  |
+| 13 | ![](./screenshots/13_adminmenu.png) |  |
+| 14 | ![](./screenshots/14_admintransactionreport.png) |  |
+| 15 | ![](./screenshots/15_adminrefill.png) |  |
+| 16 | ![](./screenshots/16_adminback.png) |  |
+| 17 | ![](./screenshots/17_adminunknownoption.png) |  |
+| 18 | ![](./screenshots/18_adminrefillfail.png) |  |
+| 19 | ![](./screenshots/19_exit.png) |  |
 
 ---
 
