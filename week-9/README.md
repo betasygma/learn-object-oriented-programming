@@ -28,7 +28,10 @@ Aplikasi ini mensimulasikan mesin penjual otomatis yang dapat:
 
 👉 Simulasi dijalankan melalui **BlueJ Terminal/Console**.
 
-👉 Tautan video penjelasan: [menyusul] 
+👉 Tautan video penjelasan: [YouTube](https://youtu.be/jvncUS8oN1M)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvncUS8oN1M" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
