@@ -30,9 +30,6 @@ Aplikasi ini mensimulasikan mesin penjual otomatis yang dapat:
 
 👉 Tautan video penjelasan: [YouTube](https://youtu.be/jvncUS8oN1M)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvncUS8oN1M" frameborder="0" allowfullscreen></iframe>
-
-
 ---
 
 <br>
