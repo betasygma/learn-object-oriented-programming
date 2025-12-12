@@ -1,10 +1,8 @@
 # 🎬 Movie Recommendation App - *Final Project Report*
 
-## Project Info
-
 | **Course** | **Class** | **Lecturer** | **Work Period** | 
 | :--------: | :-------: | :----------: | :-------------: |
-| `EF234302` Pemrograman Berorientasi Objek | PBO (B) | Fajar Baskoro, S.Kom., M.T. | 25 November—12 Desember 2025 |
+| `EF234302` Pemrograman Berorientasi Objek (*Object-oriented Programming*) | B | Fajar Baskoro, S.Kom., M.T. | November 25—December 12, 2025 |
 
 ## 📖 Project Overview
 
