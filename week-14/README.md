@@ -14,23 +14,12 @@ Aplikasi berbasis Java (GUI Swing) yang memberikan rekomendasi film secara perso
 - Simulasi *dummy user*: pengguna dapat memberi *rating* pada film acak dan mendapatkan rekomendasi
 - Tampilan GUI interaktif berbasis Java Swing
 
-<!-- ## 🚀 Installation & Usage
+## 🚀 Installation & Usage
 
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/betasygma/learn-object-oriented-programming/tree/main/week-14/
-   cd movie-recommendation-app
-   ```
-2. Compile semua file Java:
-   ```bash
-   javac *.java
-   ```
-3. Jalankan aplikasi:
-   ```bash
-   java GUI
-   ```
-
-<br> -->
+1. *Download* dan buka *project* di **BlueJ**.
+2. Pastikan semua *file* `.java` dan *dataset* (`.csv`) ada dalam satu *package*.
+3. *Compile* seluruh *class* melalui BlueJ.
+4. Jalankan program dengan mengeksekusi *class* `GUI`.
 
 ## 🗂️ Project Structure
 
@@ -67,7 +56,7 @@ Tampilan utama aplikasi Movie Recommendation App (GUI Java Swing) terdiri dari t
 ## 🔗 Resources
 
 - **Source Code**: [Github Repository](./movie-recommendation-app/)
-- **Demo Video**: [YouTube Link]()
+- **Demo Video**: [YouTube Link](https://youtu.be/DLTf6PO7SI0)
 
 ## 👥 Contributors
 
